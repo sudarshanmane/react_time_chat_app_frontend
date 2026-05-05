@@ -33,7 +33,7 @@ export const AuthProvider = ({ children }) => {
     const publicPaths = ["/login", "/register", "/"];
     if (auth.token && auth.user) {
       if (publicPaths.includes(location.pathname)) {
-        navigate("/home");
+        navigate("/chat");
       }
     } else {
       if (!publicPaths.includes(location.pathname)) {

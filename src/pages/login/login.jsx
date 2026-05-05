@@ -16,7 +16,7 @@ const Login = () => {
     const res = await login(email, password);
 
     if (res.success) {
-      navigate("/home");
+      navigate("/chat");
     } else {
       setError("Invalid Credentials!");
     }
