@@ -1,0 +1,10 @@
+{
+  "style": "radix-lyra",
+  "tailwind": {
+    "baseColor": "neutral"
+  },
+  "iconLibrary": "phosphor",
+  "rtl": false,
+  "menuColor": "default",
+  "menuAccent": "subtle"
+}
