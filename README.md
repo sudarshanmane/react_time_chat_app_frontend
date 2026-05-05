@@ -1,3 +1,7 @@
+Installation Guilde
+1. npm install
+2. npm run dev
+
 <img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/b56afc1c-b988-4285-9452-9c02d959dcd3" />
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/82eee88f-bb38-41c1-88dd-d411d7adc0e2" />
 <img width="1919" height="1049" alt="image" src="https://github.com/user-attachments/assets/f4e3b96b-b03d-4d5a-ba07-27318df4950b" />
